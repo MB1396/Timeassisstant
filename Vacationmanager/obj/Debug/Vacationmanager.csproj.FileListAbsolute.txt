@@ -1,0 +1,2 @@
+H:\Anwendungsentwicklung\C#\Organizer\Vacationmanager\Vacationmanager\bin\Debug\Vacationmanager.exe.config
+C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\bin\Debug\Vacationmanager.exe.config
