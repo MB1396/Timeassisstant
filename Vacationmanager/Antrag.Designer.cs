@@ -1,6 +1,6 @@
 ﻿namespace Vacationmanager
 {
-    partial class Form1
+    partial class Antrag
     {
         /// <summary>
         /// Erforderliche Designervariable.
@@ -137,7 +137,7 @@
             this.label1.TabIndex = 12;
             this.label1.Text = "Bemerkung";
             // 
-            // Form1
+            // Antrag
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -153,7 +153,7 @@
             this.Controls.Add(this.dateTimePicker1);
             this.Font = new System.Drawing.Font("Trebuchet MS", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
-            this.Name = "Form1";
+            this.Name = "Antrag";
             this.Text = "Form1";
             this.ResumeLayout(false);
             this.PerformLayout();

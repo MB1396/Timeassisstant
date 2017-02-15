@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Vacationmanager
 {
-    public partial class Form1 : Form
+    public partial class Antrag : Form
     {
-        public Form1()
+        public Antrag()
         {
             InitializeComponent();
         }
