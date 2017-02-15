@@ -8,3 +8,4 @@ C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Vacatio
 C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Timeassisstant.csproj.GenerateResource.Cache
 C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Vacationmanager.exe
 C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Vacationmanager.pdb
+C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Timeassisstant.csprojResolveAssemblyReference.cache
