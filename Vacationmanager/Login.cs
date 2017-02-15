@@ -17,15 +17,27 @@ namespace Vacationmanager
         public Login()
         {
             InitializeComponent();
-            IntPtr Benutzer = WindowsIdentity.GetCurrent().Token;
-            label3.Text = Benutzer.ToString();
+            Token.Text = WindowsIdentity.GetCurrent().Token.ToString();
         }
 
         private void Login_Load(object sender, EventArgs e)
         {
-            
-            //public static WindowsIdentity getCurrent();
+            Ch_WinAuth.Checked = true;
 
         }
+
+        private void Ch_WinAuth_CheckedChanged(object sender, EventArgs e)
+        {
+            txt_Nutzername.Enabled = false;
+            txt_Passwort.Enabled = false;
+        }
+
+        private void Ch_ManLog_CheckedChanged(object sender, EventArgs e)
+        {
+            txt_Nutzername.Enabled = true;
+            txt_Passwort.Enabled = true;
+        }
+
+
     }
 }
