@@ -1,10 +1,12 @@
 C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\bin\Debug\Vacationmanager.exe.config
 C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\bin\Debug\Vacationmanager.exe
 C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\bin\Debug\Vacationmanager.pdb
-C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Vacationmanager.Form1.resources
 C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Vacationmanager.Hub.resources
 C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Vacationmanager.Login.resources
 C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Vacationmanager.Properties.Resources.resources
 C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Timeassisstant.csproj.GenerateResource.Cache
 C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Vacationmanager.exe
 C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Vacationmanager.pdb
+C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Vacationmanager.Antrag.resources
+C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Vacationmanager.YearView.resources
+C:\Users\brinkmann\Source\Repos\Timeassisstant\Vacationmanager\obj\Debug\Timeassisstant.csprojResolveAssemblyReference.cache
